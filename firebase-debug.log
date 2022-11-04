@@ -1,0 +1,15 @@
+[debug] [2022-11-04T21:53:45.595Z] ----------------------------------------------------------------------
+[debug] [2022-11-04T21:53:45.605Z] Command:       /nix/store/ra8r42571xvv1m85wanh1ll9mxmp0mwl-nodejs-16.13.2/bin/node /home/runner/Exam-Project/.config/npm/node_global/bin/firebase login
+[debug] [2022-11-04T21:53:45.606Z] CLI Version:   11.16.0
+[debug] [2022-11-04T21:53:45.607Z] Platform:      linux
+[debug] [2022-11-04T21:53:45.607Z] Node Version:  v16.13.2
+[debug] [2022-11-04T21:53:45.614Z] Time:          Fri Nov 04 2022 21:53:45 GMT+0000 (Coordinated Universal Time)
+[debug] [2022-11-04T21:53:45.614Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=795166345&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
